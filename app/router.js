@@ -11,6 +11,7 @@ Router.map(function() {
       this.route('baz');
     });
   });
+  this.route('loading');
 });
 
 export default Router;
